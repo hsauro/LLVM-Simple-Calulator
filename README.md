@@ -6,4 +6,4 @@ The code uses the libLLVM by Jarrod Davis which can be found here
 
 https://github.com/tinyBigGAMES/libLLVM
 
-The project illustrate how one can use libllvm to create a hiogh performance llvm backend. 
+The project illustrate how one can use libllvm to create a high performance llvm backend. 
